@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">- 🌱 I’m currently learning **Laravel , ReactJS**</p>
-<p align="center">- 👨‍💻 All of my projects are available at [soon ~~](soon ~~)</p>
+<p align="center">- 👨‍💻 All of my projects are available at ....</p>
 <p align="center">- 📝 I regularly write articles on [soon ~~](soon ~~)</p>
 <p align="center">- 💬 Ask me about **PHP (MVC OOP PDO)**</p>
 <p align="center">- 📫 How to reach me **atasit.saengsak@gmail.com**</p>
@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/atasit saengsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atasit saengsak" height="30" width="40" /></a>
+<a href="https://fb.com/atasit.saengsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atasit saengsak" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
